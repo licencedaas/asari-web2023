@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "asary-1287": {
+      "hosting": {
+        "asari-web2023": [
+          "asary-1287"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "asary-1287"
+  }
+}
